@@ -1,0 +1,27 @@
+[
+  {
+    "name": "The Grass is Always Greener",
+    "author": "Jeffrey Archer",
+    "isbn": "1-86092-049-7"
+  },
+  {
+    "name": "Murder!",
+    "author": "Arnold Bennett",
+    "isbn": "1-86092-012-8"
+  },
+  {
+    "name": "The Speckled Band",
+    "author": "Sir Arthur Conan Doyle",
+    "isbn": "1-86092-003-9"
+  },
+  {
+    "name": "Here We Are",
+    "author": "Dorothy Parker",
+    "isbn": "1-86092-017-9"
+  },
+  {
+    "name": "Bliss Feuille d'Album",
+    "author": "Katherine Mansfield",
+    "isbn": "1-86092-005-5"
+  }
+]
