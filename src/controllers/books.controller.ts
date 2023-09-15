@@ -9,10 +9,6 @@ const getBooks = async (
   try {
     const query = request.query.query as string;
 
-    if (!request.query) {
-      throw new Error("query param is required");
-    }
-
     const books = booksService.getBooks(query);
 
     return response.status(200).send(books);
